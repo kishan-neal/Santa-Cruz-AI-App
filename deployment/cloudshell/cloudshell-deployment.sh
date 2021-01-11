@@ -11,7 +11,7 @@ set -e
 
 
 # SAS URL of DeploymentBundle zip.
-SAS_URL="https://unifiededgescenarios.blob.core.windows.net/people-detection/deployment-bundle-latest.zip?sp=r&st=2020-08-12T13:17:07Z&se=2020-12-30T21:17:07Z&spr=https&sv=2019-12-12&sr=b&sig=%2BakjkDanqU5CczPmIVXz3gn8Bu3MWjB0vZ2IEnJoUKE%3D"
+SAS_URL="https://unifiededgescenarios.blob.core.windows.net/people-detection/deployment-bundle-latest.zip?sp=r&st=2021-01-11T16:04:09Z&se=2021-10-01T00:04:09Z&spr=https&sv=2019-12-12&sr=b&sig=0zKh5sZT5qWgZ5%2FfqsCL3KcVDDXdsHmGeRKd2jXtbnY%3D"
 
 PRINT_HELP="false"
 
